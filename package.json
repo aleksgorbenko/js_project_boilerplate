@@ -1,0 +1,14 @@
+{
+  "name": "js_project_boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate with file for js project",
+  "main": "index.js",
+  "types": "./node_modules/@types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleks Gorbenko",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
